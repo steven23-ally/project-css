@@ -1,0 +1,138 @@
+nav{
+    display:flex;
+    color:blue;
+    cursor: pointer;
+    gap:5rem;
+    position: sticky;
+    
+    background-color:black;
+    left: 0;
+    right: 0;
+    top: 0;
+    
+}
+.tee{
+    list-style-type: none;
+    display: flex;
+    gap: 5rem;
+}
+.fa-solid{
+    display: flex;
+    font-size: 50px
+}
+
+ 
+.go{ 
+    display: flex;
+    color: blue;
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border:1px solid black;
+    justify-content:center ;
+    
+    background-color: red;
+    
+
+    
+
+}
+main{display: flex;
+flex-direction: column;
+gap: 20px;
+background-color: antiquewhite;}
+.upper-p{
+    display:flex;
+    padding: 2px 6px;
+}
+
+.OWN{
+    display: flex;
+    height: 25rem;
+    
+
+
+
+    
+}
+
+
+
+.CART{
+    padding:3px;
+    border: 1px solid black;
+    background-color: blue;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    width: 10rem;
+}
+.first-box{
+    background-color: aquamarine;
+
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+}
+.app{
+    display: flex;
+    height: 25rem;
+    width: 27rem;
+}
+.box2{
+    background-color: aquamarine;
+}
+.jay{
+    display: flex;
+    height: 25rem;
+}
+.box3{
+    background-color: aquamarine;
+}
+.bob{
+    display: flex;
+    height: 30rem;
+}
+.deer{
+   
+    display: flex;
+    justify-content: space-around;
+
+}
+.dear{
+    background-color: aquamarine;
+
+    
+}
+.duo{
+    display: flex;
+    height: 30rem;
+    width: 33rem;
+}
+.raw{
+    background-color: aquamarine;
+}
+.san{
+    display: flex;
+    height: 30rem;
+}
+.dad{
+    background-color: aquamarine;
+}
+.max{
+    display: flex;
+    height: 25rem;
+}
+.box4{
+    display: flex;
+
+}
+.raw:hover{
+    
+    height: 100px;
+    
+    border-radius: 30px;
+    padding: 10px 20px;
+    cursor: grab;
+    
+}
